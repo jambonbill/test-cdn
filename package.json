@@ -1,0 +1,16 @@
+{
+  "name": "test-cdn",
+  "version": "1.0.0",
+  "description": "un simple test",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "jambon",
+    "lol"
+  ],
+  "author": "jambonbill",
+  "license": "ISC"
+}
